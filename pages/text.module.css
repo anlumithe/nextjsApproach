@@ -1,0 +1,32 @@
+.bold {
+    font-weight: bold;
+  }
+  
+  .code {
+    font-family: monospace;
+    color:rgb(218, 97, 93);
+    background-color: rgb(242, 242, 242);
+    padding: 2px 4px;
+    border-radius: 2px;
+  }
+  .callout {
+    background-color: rgb(242, 242, 242);
+    padding: 2px 4px;
+    border-radius: 2px;
+  }
+  .italic {
+    font-style: italic;
+  }
+  
+  .strikethrough {
+    text-decoration: line-through;
+  }
+  
+  .underline {
+    text-decoration: underline;
+  }
+
+  .a {
+    text-decoration: underline;
+    text-decoration-color: grey;
+  }
